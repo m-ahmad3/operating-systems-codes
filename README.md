@@ -4,27 +4,6 @@ This repository contains a collection of Operating System (OS) lab programs and 
 
 ---
 
-## 📁 Folder & File Structure
-
-OS/
-├── L10-Mutex-Semaphore/ # Programs related to mutual exclusion and semaphores
-├── Unsolved_Labs/ # Lab exercises yet to be completed
-├── mcSeries_pi.c # Multithreaded calculation (MC series & Pi value)
-├── n_threads.c # Thread creation and handling example
-├── thread.c # Basic multithreaded task
-├── thread_Prog.c # Multithreading and synchronization logic
-├── oldBridge.c # Classic concurrency problem simulation
-├── Pipesg2prac.c # Pipe-based inter-process communication
-├── Dup Lab 6.c # File descriptor duplication and I/O redirection
-├── example_task_dup.c # Task using dup/dup2 system calls
-├── G5-Solution.c # Group-based solution (pipe/thread/IPC task)
-├── GL2 Solved(Pipes).c # Solved pipe-based problem
-├── C_Basics.c # Refresher on basic I/O and syntax
-├── OS_Lab1 (Installation).docx # Instructions for Linux setup and GCC
-
-
----
-
 ## 💡 Topics Covered
 
 | Concept                 | Covered in Files/Folders                      |
